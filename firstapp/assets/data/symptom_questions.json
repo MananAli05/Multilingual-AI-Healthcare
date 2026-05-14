@@ -1,0 +1,114 @@
+{
+  "high_fever": [
+    {"question": "What is your temperature range?", "options": ["100-101°F", "101-103°F", "103-104°F", "Above 104°F"]},
+    {"question": "How long have you had fever?", "options": ["1 day", "2-3 days", "4-5 days", "More than 5 days"]},
+    {"question": "Do you feel chills?", "options": ["No", "Mild", "Moderate", "Severe"]},
+    {"question": "Do you sweat a lot?", "options": ["No", "Sometimes", "Often", "Constantly"]}
+  ],
+
+  "cough": [
+    {"question": "Type of cough?", "options": ["Dry", "Wet", "Mixed"]},
+    {"question": "How long?", "options": ["<3 days", "3-7 days", ">1 week"]},
+    {"question": "Any blood?", "options": ["No", "Yes"]},
+    {"question": "Worse at night?", "options": ["No", "Yes"]}
+  ],
+
+  "breathlessness": [
+    {"question": "When does it occur?", "options": ["At rest", "Walking", "Climbing stairs"]},
+    {"question": "Severity?", "options": ["Mild", "Moderate", "Severe"]},
+    {"question": "Sudden or gradual?", "options": ["Sudden", "Gradual"]},
+    {"question": "Chest tightness?", "options": ["No", "Yes"]}
+  ],
+
+  "chest_pain": [
+    {"question": "Type of pain?", "options": ["Sharp", "Dull", "Burning"]},
+    {"question": "Does it spread?", "options": ["No", "Left arm", "Back"]},
+    {"question": "Triggered by?", "options": ["Movement", "Breathing", "Eating"]},
+    {"question": "Duration?", "options": ["Seconds", "Minutes", "Hours"]}
+  ],
+
+  "headache": [
+    {"question": "Location?", "options": ["One side", "Both sides", "Whole head"]},
+    {"question": "Type?", "options": ["Throbbing", "Pressure", "Sharp"]},
+    {"question": "Light sensitivity?", "options": ["No", "Yes"]},
+    {"question": "Frequency?", "options": ["Rare", "Frequent", "Constant"]}
+  ],
+
+  "fatigue": [
+    {"question": "Energy level?", "options": ["Normal", "Low", "Very low"]},
+    {"question": "Duration?", "options": ["1-2 days", "1 week", "Chronic"]},
+    {"question": "Sleep quality?", "options": ["Good", "Poor"]},
+    {"question": "After rest?", "options": ["Better", "Same"]}
+  ],
+
+  "nausea": [
+    {"question": "Frequency?", "options": ["Occasional", "Frequent", "Constant"]},
+    {"question": "Vomiting?", "options": ["No", "Yes"]},
+    {"question": "Triggered by food?", "options": ["No", "Yes"]},
+    {"question": "Associated pain?", "options": ["No", "Yes"]}
+  ],
+
+  "vomiting": [
+    {"question": "How often?", "options": ["Once", "Few times", "Many times"]},
+    {"question": "Color?", "options": ["Normal", "Yellow", "Green", "Bloody"]},
+    {"question": "After eating?", "options": ["Yes", "No"]},
+    {"question": "With fever?", "options": ["Yes", "No"]}
+  ],
+
+  "abdominal_pain": [
+    {"question": "Location?", "options": ["Upper", "Lower", "Whole"]},
+    {"question": "Type?", "options": ["Sharp", "Cramp", "Dull"]},
+    {"question": "After eating?", "options": ["Yes", "No"]},
+    {"question": "Severity?", "options": ["Mild", "Moderate", "Severe"]}
+  ],
+
+  "diarrhoea": [
+    {"question": "Frequency?", "options": ["2-3 times", "4-6 times", ">6 times"]},
+    {"question": "Blood?", "options": ["No", "Yes"]},
+    {"question": "With fever?", "options": ["No", "Yes"]},
+    {"question": "Duration?", "options": ["1 day", "2-3 days", ">3 days"]}
+  ],
+
+  "joint_pain": [
+    {"question": "Location?", "options": ["Knee", "Elbow", "Multiple joints"]},
+    {"question": "Swelling?", "options": ["No", "Yes"]},
+    {"question": "Morning stiffness?", "options": ["No", "Yes"]},
+    {"question": "Movement pain?", "options": ["No", "Yes"]}
+  ],
+
+  "skin_rash": [
+    {"question": "Type?", "options": ["Red spots", "Blisters", "Patches"]},
+    {"question": "Itching?", "options": ["No", "Yes"]},
+    {"question": "Spread?", "options": ["Localized", "Spreading"]},
+    {"question": "Duration?", "options": ["1 day", "Few days", "Chronic"]}
+  ],
+
+  "itching": [
+    {"question": "Intensity?", "options": ["Mild", "Moderate", "Severe"]},
+    {"question": "Location?", "options": ["Local", "Whole body"]},
+    {"question": "Night worse?", "options": ["No", "Yes"]},
+    {"question": "With rash?", "options": ["No", "Yes"]}
+  ],
+
+  "weight_loss": [
+    {"question": "How much?", "options": ["1-2 kg", "3-5 kg", ">5 kg"]},
+    {"question": "Intentional?", "options": ["Yes", "No"]},
+    {"question": "Appetite?", "options": ["Normal", "Low"]},
+    {"question": "Fatigue?", "options": ["No", "Yes"]}
+  ],
+
+  "dizziness": [
+    {"question": "Type?", "options": ["Lightheaded", "Spinning"]},
+    {"question": "Duration?", "options": ["Seconds", "Minutes", "Hours"]},
+    {"question": "Trigger?", "options": ["Standing", "Movement"]},
+    {"question": "With nausea?", "options": ["No", "Yes"]}
+  ],
+
+  "runny_nose": [
+    {"question": "Type?", "options": ["Watery", "Thick"]},
+    {"question": "Duration?", "options": ["1-2 days", "3-5 days", ">1 week"]},
+    {"question": "With sneezing?", "options": ["Yes", "No"]},
+    {"question": "With fever?", "options": ["Yes", "No"]}
+  ]
+
+}
