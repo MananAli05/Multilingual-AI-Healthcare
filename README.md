@@ -6,12 +6,12 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 The **Multilingual AI Healthcare** platform is a comprehensive diagnostic assistant designed to bridge language barriers in healthcare. Built as a Final Year Project (FYP), it features an intelligent symptom checker, automated lab report analysis, and AI-driven X-ray diagnostics. 
 
 By supporting both **English and Urdu**, it ensures accessibility for a broader demographic, allowing users to communicate symptoms naturally via voice or text.
 
-## 🚀 Features
+## Features
 - **🗣️ Multilingual Voice AI:** Speak your symptoms in Urdu or English, and the AI will transcribe, understand, and map them to precise medical conditions.
 - **🩺 Smart Symptom Checker:** Get AI-driven preliminary diagnoses based on your exact symptoms.
 - **📄 Lab Report Analysis:** Upload your medical reports, and the AI will summarize the findings in simple terms.
@@ -37,7 +37,7 @@ By supporting both **English and Urdu**, it ensures accessibility for a broader 
 - **Deep Learning:** TensorFlow/Keras (for X-ray analysis like `pneumonia_model.h5`)
 - **Data Processing:** Pandas, NumPy
 
-## 📂 Project Structure
+##  Project Structure
 This is a monorepo containing both the mobile application and the backend server.
 
 ```text
