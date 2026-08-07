@@ -51,7 +51,7 @@ Multilingual-Symptom/
     └── MedicalModelAPI/  # AI models, routes, and logic
 ```
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1. Backend (FastAPI)
 ```bash
@@ -70,5 +70,5 @@ flutter pub get
 flutter run
 ```
 
-## 👨‍💻 Developed By
-**Manan Ali** - Final Year Project 
+##  Developed By
+**Abdul Manan ** - Final Year Project 
