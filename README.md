@@ -5,7 +5,6 @@
 </div>
 
 ---
-
 ## Overview
 The **Multilingual AI Healthcare** platform is a comprehensive diagnostic assistant designed to bridge language barriers in healthcare. Built as a Final Year Project (FYP), it features an intelligent symptom checker, automated lab report analysis, and AI-driven X-ray diagnostics. 
 
